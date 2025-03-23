@@ -1,0 +1,20 @@
+{
+  "name": "chaiandbackend",
+  "version": "1.0.0",
+  "description": "Express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "backend",
+    "express"
+  ],
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
