@@ -1,4 +1,5 @@
-#DEPLOYMENT SERVICEs
+#DEPLOYMENT SERVICES
+
 - Digital Ocean
 - Heroku
 - Railway
